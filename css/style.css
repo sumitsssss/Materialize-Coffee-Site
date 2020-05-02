@@ -1,0 +1,44 @@
+body {
+  font-family: "Bree Serif", cursive;
+}
+
+.nav-wrapper {
+  background-color: #442727;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #442727;
+}
+
+.move {
+  margin-top: 60px;
+  text-align: justify;
+  margin-bottom: 30px;
+  font-size: 1rem;
+}
+
+.parallax-container {
+  min-height: 280px;
+  height: auto;
+}
+
+.icons-coffee {
+  color: #442727;
+}
+
+footer {
+  background-color: #442727;
+  margin-top: 50px;
+}
+
+.footer-two {
+  background-color: #100303;
+}
+.footer-two div p {
+  margin-left: 180px;
+}
+
+.brand-logo {
+  margin-left: 20px;
+  font-family: "Pacifico", serif;
+}
